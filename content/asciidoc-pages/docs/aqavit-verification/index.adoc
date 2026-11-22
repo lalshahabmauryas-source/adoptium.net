@@ -1,4 +1,4 @@
-= AQAvit(TM) Verification
+= AQAvit(TM) Verifications 
 :page-authors: gdams, smlambert, llxia, tellison
 :aqavit-branch: v0.9.6-release
 Version 0.2, 02.03.2022
